@@ -1,5 +1,5 @@
 # Asteroids
-A simplified version of the classic Asteroids game I created for my Andoird class project.
+A simplified version of the classic Asteroids game I created for my Android class project.
 
 The game is available on the Google Play Store:
 https://play.google.com/store/apps/details?id=com.saqibsaadi.asteroids
