@@ -9,3 +9,7 @@ Feature wish list (Future work if anyone is interested):
 - Play levels: Easy, Medium, Hard
 - Saving high score
 - Random spacehip flying accross the screen
+
+Feel free to contact me if you like to contribute! 
+
+saadis01@gmail.com
